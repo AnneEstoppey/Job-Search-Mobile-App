@@ -1,0 +1,25 @@
+How to upgrade to Expo EAS from legacy build service:
+
+In your term window type in:
+
+> npm install --global eas-cli
+
+then:
+
+> eas login (use your email/password from you expo account)
+
+then:
+
+> eas update:configure
+
+then:
+
+> eas build:configure
+
+and finally:
+
+> eas update
+
+which will return a URL link where you can get a QR code for both android and iOS.
+
+https://docs.expo.dev/eas-update/migrate-from-classic-updates/
