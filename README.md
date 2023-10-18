@@ -15,13 +15,14 @@ Job details
 Note 1: your rapid api key will be exposed if you do follow the tutorial. This is not recommended. Please read the following article to understand the importance to hide your API keys and also several methods how to do this.
 https://www.smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/
 
-Note 2: upgrading to Expo EAS build was necessary to be able to build a test version.
+Note 2: I chose to upgrade to Expo EAS in order to be able to build a test version.
 
 About Expo EAS build:
 EAS Build is a hosted service for building app binaries for your Expo and React Native projects. It is the successor to the legacy build service that was previously available on Expo's servers. EAS Build is currently in beta and is free to use. It is available to all Expo users, including those on the free plan (as October 2023).
 https://docs.expo.dev/build/introduction/
 
-Check text file 'how_to_upgrade_to_ExpoEAS_from_legacy_build.txt' for more details.
+Check text file 'how_to_upgrade_to_ExpoEAS_from_legacy_build.txt' for more details (commands I used for upgrading to Expo EAS).
+
 
 It will then be possible to share a link (or QR code) for testing your app:
 
