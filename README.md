@@ -6,7 +6,7 @@ https://youtu.be/mJ3bGvy0WAY?si=_FWFJpTxDoUsWyJl
 This app is using the Jsearch API from RapidAPI. You can find it here: <br>
 https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/details
 
-![mobile_app_screenshots](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/221e9aa7-514d-43b5-b36f-9d427e35e3fb)
+![mobile_app_screenshots](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/a7aac19d-7bc8-4b5d-be5f-b184a451f256)
 
 ### Note 1: 
 your rapid api key will be exposed if you do follow the tutorial. This is not recommended. Please read the following article to understand the importance to hide your API keys and also several methods how to do this. <br>
