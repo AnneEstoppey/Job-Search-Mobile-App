@@ -24,7 +24,7 @@ https://docs.expo.dev/build/introduction/
 Check text file 'how_to_upgrade_to_ExpoEAS_from_legacy_build.txt' for more details (commands I used for upgrading to Expo EAS).
 
 It will then be possible to share a link (or QR code) for testing your app:
-![expodashboard01](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/0a7415ba-cc4f-41a2-b1fb-0b2311f29384)
+![expodashboard01](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/d778f464-de61-4958-b498-03e768e32819)
 
 ### Read the Expo EAS documentation for fully deploying your app to app store.
 For Apple store: <br>
