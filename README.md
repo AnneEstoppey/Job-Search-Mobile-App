@@ -1,6 +1,6 @@
 ## Job Search App in React Native
 
-This repo is based primarily on the code from JavaScrip Mastery's tutorial on youtube here: <br>
+This repo is based primarily on the code from JavaScript Mastery's tutorial on youtube here: <br>
 https://youtu.be/mJ3bGvy0WAY?si=_FWFJpTxDoUsWyJl
 
 This app is using the Jsearch API from RapidAPI. You can find it here: <br>
@@ -11,7 +11,7 @@ Screenshots from mobile app showing searching for React jobs in Norway, the resu
 ![mobile_app01_](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/a271b774-6f2b-4ed3-8121-f6a6d1c8fc53)
 
 ### Note 1: 
-your rapid api key will be exposed if you do follow the tutorial. This is not recommended. Please read the following article to understand the importance to hide your API keys and also several methods how to do this. <br>
+Your Rapid API key will be exposed if you do follow the tutorial. This is not recommended. Please read the following article to understand the importance to hide your API keys and also several methods how to do this. <br>
 https://www.smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/
 
 ### Note 2: 
