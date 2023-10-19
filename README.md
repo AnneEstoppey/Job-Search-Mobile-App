@@ -33,3 +33,5 @@ https://docs.expo.dev/submit/ios/
 ### Here some features I would like to add:
 - choose which country to search in from a dropdown list
 - adding a 'remote' button to search for remote jobs
+- add functionality for the add to favourite button (heart button in the job details)
+- add functionalities for the hamburger menu in the upper left corner of the home screen
