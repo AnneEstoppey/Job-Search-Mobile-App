@@ -8,7 +8,7 @@ https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/details
 
 Screenshots from mobile app showing searching for React jobs in Norway, search result and job details (second job in list):
 
-![mobile_app01_](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/a271b774-6f2b-4ed3-8121-f6a6d1c8fc53)
+![mobile_app01_](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/98d82bcc-7e69-4427-b853-6f7e9cec9180)
 
 ### Note 1: 
 Your Rapid API key will be exposed if you do follow the tutorial. This is not recommended. Please read the following article to understand the importance to hide your API keys and also several methods how to do this. <br>
@@ -24,7 +24,7 @@ https://docs.expo.dev/build/introduction/
 Check text file 'how_to_upgrade_to_ExpoEAS_from_legacy_build.txt' for more details (commands I used for upgrading to Expo EAS).
 
 It will then be possible to share a link (or QR code) for testing your app:
-![expodashboard01](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/d778f464-de61-4958-b498-03e768e32819)
+![expodashboard01](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/43f4fc03-e4cc-4c43-8acc-67407136b617)
 
 ### Read the Expo EAS documentation for fully deploying your app to app store.
 For Apple store: <br>
