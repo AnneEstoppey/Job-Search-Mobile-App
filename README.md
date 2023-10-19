@@ -6,7 +6,7 @@ https://youtu.be/mJ3bGvy0WAY?si=_FWFJpTxDoUsWyJl
 This app is using the Jsearch API from RapidAPI. You can find it here: <br>
 https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/details
 
-Screenshots from mobile app showing searching for React jobs in Norway, the result and finally clicking on the second job in the list:
+Screenshots from mobile app showing searching for React jobs in Norway, search result and job details (second job in list):
 
 ![mobile_app01_](https://github.com/AnneEstoppey/Job-Search-Mobile-App/assets/35219455/a271b774-6f2b-4ed3-8121-f6a6d1c8fc53)
 
